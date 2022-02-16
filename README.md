@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Donperidon
 - 👀 I’m interested in network programming with neural networks
-- 🌱 I’m currently learning C#, OpenCV, SQL
-- 📫 How to reach me voodoo341@gmail.com
+- 🌱 I’m currently learning Python, Django
+- 📫 How to reach me rybalchenko.dmitry@yandex.ru
 
 <!---
 Donperidon/Donperidon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
