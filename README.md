@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Donperidon
-- 👀 I’m interested in network programming with neural networks
-- 🌱 I’m currently learning Python, Django
+- 👀 I'm interested in embedded development and a bit more
 - 📫 How to reach me rybalchenko.dmitry@yandex.ru
 
 <!---
